@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/var'
+let g:netrw_dirhist_2='/Users/phuongtm/go/src/github.com'
+let g:netrw_dirhist_3='/Users/phuongtm/.dotfiles/.vim/bundle/YouCompleteMe'
+let g:netrw_dirhist_4='/Users/phuongtm/.ssh'
+let g:netrw_dirhist_5='/Users/phuongtm/.dotfiles'
+let g:netrw_dirhist_6='/Users/phuongtm/.dotfiles/.vim'
+let g:netrw_dirhist_7='/Users/phuongtm/.dotfiles/.vim/colors'
+let g:netrw_dirhist_8='/Users/phuongtm/.dotfiles'
